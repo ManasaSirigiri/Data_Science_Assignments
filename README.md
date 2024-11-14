@@ -1,1 +1,1 @@
-This is IBM's Data Science Assignments Repository.
+This is IBM's Data Science Projects Repository.
